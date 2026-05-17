@@ -43,4 +43,4 @@ https://user-images.githubusercontent.com/15172744/190894691-c52ac22d-b76c-4890-
 
 Name: Arsh Shafi
 
-Project Name: Street Fighter Model
+Project Name: Heroes and Villains
